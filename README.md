@@ -77,7 +77,7 @@ $  source venv/scripts/activate
 
 **3. Clonar el projecto**
 ```
-$  git clone https://github.com/vijaythapa333/django-student-management-system.git
+$  git clone https://github.com/lincNx/Consejo-Escolar.git
 ```
 
  Entrar al projecto
