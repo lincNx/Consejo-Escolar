@@ -1,5 +1,5 @@
 
-<p align="Left">
+<p align="center">
   <a href="" rel="noopener">
  <img width=650px height=200px src="https://imgur.com/IillnvW.png" alt="Project logo"></a>
 </p>
@@ -20,8 +20,9 @@
 </div>
 
 <h1 align="center">Consejo Escolar Sistema de Administracion (beta)</h1>
-
+<p align="center">
 Sistema de administracion desarrollado durante las practicas profesionalizantes 
+</p>
 
 ## Caracteristicas del proyecto
 
