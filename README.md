@@ -4,6 +4,8 @@
  <img width=650px height=200px src="https://imgur.com/IillnvW.png" alt="Project logo"></a>
 </p>
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +17,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-# Consejo Escolar Sistema de Administracion (beta)
+</div>
+
+<h1 align="center">Consejo Escolar Sistema de Administracion (beta)</h1>
 
 Sistema de administracion desarrollado durante las practicas profesionalizantes 
 
