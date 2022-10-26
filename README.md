@@ -3,6 +3,7 @@
   <a href="" rel="noopener">
  <img width=650px height=200px src="https://imgur.com/IillnvW.png" alt="Project logo"></a>
 </p>
+
 # Consejo Escolar Sistema de Administracion (beta)
 
 Sistema de administracion desarrollado durante las practicas profesionalizantes 
