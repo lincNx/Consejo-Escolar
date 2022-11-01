@@ -98,7 +98,7 @@ $  git clone https://github.com/lincNx/Consejo-Escolar.git
 
  Entrar al projecto
 ```
-$  cd django-student-management-system
+$  cd Consejo-Escolar
 ```
 
 **4. Instalar Requerimientos desde 'requirements.txt'**
