@@ -132,15 +132,15 @@ $  python manage.py createsuperuser
 
 **O Usar Credenciales Default**
 
-*For HOD /SuperAdmin*
+* HOD /SuperAdmin*
 Email: admin@gmail.com
 Password: admin
 
-*For Staff*
+* Staff*
 Email: staff@gmail.com
 Password: staff
 
-*For Student*
+* Estudiante*
 Email: student@gmail.com
 Password: student
 
